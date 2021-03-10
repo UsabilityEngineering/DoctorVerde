@@ -1,12 +1,12 @@
-# Replace this with the Project Name
+# Doctor Verde
 
 Replace this text with a brief introduction to the problem space.
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
-* **Full Name 3** - Summary of contributions
+* **Alex Moxon** - Summary of contributions
+* **David Ayala** - Summary of contributions
+* **Dylan Davidson** - Summary of contributions
 
 # User-Centered Design Artifacts
 
