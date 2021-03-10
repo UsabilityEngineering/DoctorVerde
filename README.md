@@ -1,6 +1,6 @@
 # Doctor Verde
 
-Replace this text with a brief introduction to the problem space.
+Software with the ability to assess plant health & alert users of potential problems.
 
 ## Team Members
 
