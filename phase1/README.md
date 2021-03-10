@@ -20,4 +20,4 @@
 
 [See dedicated page for Personas and Scenarios created from Phase 1 findings](../personas-scenarios.md)
 
-[Interview Responses](../interviews.pdf)
+[Interview Responses](interviews.pdf)
