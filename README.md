@@ -25,8 +25,9 @@ Software with the ability to assess plant health & alert users of potential prob
 * __Outcomes:__ Most plant owners mostly had issues with doing too much to their plants.
   * This includes overwatering, overtrimming, etc.
   * Only one interviewee dealt with mildew killing their plant.
-  * Interviewed home plant owners resort to Google, the instructions that came with the plant, or the plant shop for advice when growing their plant.
+  * Interviewed home plant owners **resort to Google**, the instructions that came with the plant, or the plant shop for advice when growing their plant.
     * **75%** resorted to Google first for help with their plant
+  * Not much information was gathered in regards to common illnesses and reasons for getting to that point, due to **most interviewees being home plant owners.**
 
 
 [Full phase 1 report](phase1/)
