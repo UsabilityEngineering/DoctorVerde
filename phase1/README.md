@@ -4,12 +4,14 @@
 
 **1. Interviews**
 
-**Why:** Some plant owners do not use technology and would not answer surveys. We could get to know common problems, and the common techniques the plant owners employ to take care of them. We will be able to find out where they go to find out more about taking care of their plants, giving us relevant information.
+**Why:** 
+Some plant owners do not use technology and would not answer surveys. We could get to know common problems, and the common techniques the plant owners employ to take care of them. We will be able to find out where they go to find out more about taking care of their plants, giving us relevant information.
 Number of users (n = 4)
 
 **2. Studying Documentation**
 
-**Why:** We want to find out more about the topic we are trying to fix. We do not know much about plants and we need to understand our problem space more and solutions that are already available.
+**Why:** 
+We want to find out more about the topic we are trying to fix. We do not know much about plants and we need to understand our problem space more and solutions that are already available.
 Number of users (n = N/A)
 
 ## Findings
