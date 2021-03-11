@@ -20,7 +20,7 @@ Findings were collected via individual interviews from a small number of college
 
 ## Conclusions
 
-The biggest takeaway from our interviews would be that **most people own a small number of plants**, which they **spend a nominal amount of money on** within a given year. Of the people we interviewed, most used Google as their primary resource of plant information. Though most found it **difficult to find useful information** pertaining to there exact problem. However, we **noticed** that **as a person gets older they tend to spend more on plants & maintaining their health**. We believe that our product could prove **useful to homeowners**, who have shown to spend good amounts of money maintaining there plants.
+The biggest takeaway from our interviews would be that **most people own a small number of plants**, which they **spend a nominal amount of money on** within a given year. Of the people we interviewed, most used Google as their primary resource of plant information. Though most found it **difficult to find useful information** pertaining to there exact problem. However, we **noticed** that **as a person gets older they tend to spend more on plants & maintaining their health**. We believe that our product could prove **useful to homeowners**, who spend a good amount of money maintaining the health of their plants.
 
 ## Caveats
 
