@@ -16,11 +16,11 @@ Number of users (n = N/A)
 
 ## Findings
 
-Findings were collected via individual interviews from a small number of college aged participants. From those interviews we gained useful information about how people deal with their plant problems. Of the people we interviewed, **75%** of them used Google to find information, when dealing with a sick plant. Though it was noted that the **information they receive online was typically not that helpful.** We also found a correlation between age & amount of plants owned. People who were **older & better off financially** were **more likely to have plants** & spend more on them. 
+Findings were collected via individual interviews from a small number of college aged participants. From those interviews we gained useful information about how people deal with their plant problems. Of the people we interviewed, **75%** of them used Google to find information, when dealing with a sick plant. Though it was noted that the **information they receive online was typically not that helpful.** We also found a correlation between age & amount of plants owned. People who were **older & better off financially** were **more likely to have plants** & therefore spend more on them. 
 
 ## Conclusions
 
-
+The biggest takeaway from our interviews would be that **most people own a small number of plants**, which they **spend a nominal amount of money on** within a given year. Of the people we interviewed, most used Google as their primary resource of plant information. Though most found it **difficult to find useful information** pertaining to there exact problem. However, we **noticed** that **as a person gets older they tend to spend more on plants & maintaining their health**. We believe that our product could prove **useful to homeowners**, who have shown to spend good amounts of money maintaining there plants.
 
 ## Caveats
 
