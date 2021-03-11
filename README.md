@@ -4,7 +4,7 @@ Software with the ability to assess plant health & alert users of potential prob
 
 ## Team Members
 
-* **Alex Moxon** - Cordination of Group Work, Notes during Interviews
+* **Alex Moxon** - Cordination of Group Work & Repository Files, Notes during Interviews
 * **David Ayala** - Methods, Executive Summary, & Interviewer
 * **Dylan Davidson** - Personas, Scenarios, Notes during Interviews
 
@@ -16,7 +16,10 @@ Software with the ability to assess plant health & alert users of potential prob
 
 # Phase 1: Requirements Gathering
 
-* Executive Summary of methods,
+* Executive Summary: Looked into finding common issues among plant growers, from farmers to home gardeners with the desire to use technology to automate detection of these issues to allow for quick remedies.
+  * Issues include plant illness, pests, etc.
+  * Looking into all plants, from fruit trees to rose bushes.
+  * Will create a technology that is **learnable**, **efficient**, and **effective**.  
 * data gathered,
 * and most important outcomes
 
