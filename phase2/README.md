@@ -5,7 +5,7 @@ Lorem Ipsum
 |<img src="https://i.imgur.com/k09lJc2.png" width="200"> | <img src="https://i.imgur.com/41yVDhA.png" width="200"> | <img src="https://i.imgur.com/epSPRmO.png" width="200"> |
 | :---: | :---: | :---: |
 | Login | Create | Home Page |
-| Lorem Ipsum | Lorem Ipsum |
+| Lorem Ipsum | Lorem Ipsum | Lorem Ipsum |
 | <img src="https://i.imgur.com/a84lJD9.png" width="200"> |  <img src="https://i.imgur.com/Nx9mSWA.png" width="200"> |  <img src="https://i.imgur.com/64YWyoO.png" width="200"> |
 | Plant Scan | Plant Scan Confirmation | Plant Scan Results |
 | Lorem Ipsum | Lorem Ipsum | Lorem Ipsum |
