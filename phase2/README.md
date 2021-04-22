@@ -1,9 +1,7 @@
 # Phase II: User-Centered Design
 
 ## Executive Summary: 
-This design is what we created, inspired by the common issues that most of our interviewees dealt with wile growing their plants. 
-
-Accompany the wireframes with justifications for how they have been motivated by the user research data, personas, and scenarios.
+This design is what we created, inspired by the common issues that most of our interviewees dealt with wile growing their plants. We started with a sketch of the design. Most of our interviewees wanted something that would work camera-based, as they are used to taking pictures for their families. They would be most comfortable with using the mobile application this way. Through iterative design, we improved on the sketch. We made we were error-tolerant being observant of our audience. After this, we created a wireframe that contained all the menu options and basic design. We thought of how the interactions would go, and we settled with a prototype that was easily learnable.
 
 ## Wireframes:
 
