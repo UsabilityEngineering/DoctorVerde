@@ -4,9 +4,9 @@ Software with the ability to assess plant health & alert users of potential prob
 
 ## Team Members
 
-* **Alex Moxon** - Cordination of Group Work & Repository Files, Notes during Interviews
-* **David Ayala** - Methods, Executive Summary, & Interviewer
-* **Dylan Davidson** - Personas, Scenarios, Notes during Interviews
+* **Alex Moxon** - Prototyping, Cordination of Group Work & Repository Files, Notes during Interviews
+* **David Ayala** - Wireframing, Methods, Executive Summary, & Interviewer
+* **Dylan Davidson** - Sketching, Personas, Scenarios, Notes during Interviews
 
 # User-Centered Design Artifacts
 
