@@ -16,9 +16,9 @@ Software with the ability to assess plant health & alert users of potential prob
 
 # Phase I: Requirements Gathering
 
-* Executive Summary:
-* Data Gathered:
-* __Outcomes:__
+* Executive Summary
+* Data Gathered
+* Notable Outcomes
   
 [Full phase 1 report](phase1/)
 
