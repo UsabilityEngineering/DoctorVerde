@@ -14,7 +14,7 @@ Software with the ability to assess plant health & alert users of potential prob
 * [Wireframes](#)
 * [Prototype](https://xd.adobe.com/view/aa438efd-953f-4a51-a444-14a28db70a0c-ff10/)
 
-# Phase 1: Requirements Gathering
+# Phase I: Requirements Gathering
 
 * __Executive Summary:__ Looked into finding common issues among plant growers, from farmers to home gardeners with the desire to use technology to automate detection of these issues to allow for quick remedies.
   * Issues include plant illness, pests, etc.
@@ -32,13 +32,13 @@ Software with the ability to assess plant health & alert users of potential prob
 
 [Full phase 1 report](phase1/)
 
-# Phase 2: Interaction Design
+# Phase II: User-Centered Design
 
 *Coming Soon*
 
 [Full phase 2 report](phase2/)
 
-# Phase 3: Usability Evaluation
+# Phase III: Usability Evaluation
 
 *Coming Soon*
 
