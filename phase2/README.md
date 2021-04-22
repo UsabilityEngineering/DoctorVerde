@@ -2,7 +2,7 @@
 
 Lorem Ipsum
 
-|<img src="https://i.imgur.com/k09lJc2.png" width="200"> | <img src="https://i.imgur.com/41yVDhA.png" width="200"> | <img src="https://i.imgur.com/epSPRmO.png" width="200"> |
+|<img src="https://i.imgur.com/g0ZqcHG.png" width="200"> | <img src="https://i.imgur.com/41yVDhA.png" width="200"> | <img src="https://i.imgur.com/epSPRmO.png" width="200"> |
 | :---: | :---: | :---: |
 | Login | Create | Home Page |
 | Lorem Ipsum | Lorem Ipsum | Lorem Ipsum |
