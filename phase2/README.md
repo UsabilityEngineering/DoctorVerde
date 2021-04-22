@@ -1,12 +1,10 @@
 ## Phase II: User-Centered Design
 
-Executive Summary: blah blah
+# Executive Summary: This design is what we created, inspired by the common issues that most of our interviewees dealt with wile growing their plants. 
 
 Accompany the wireframes with justifications for how they have been motivated by the user research data, personas, and scenarios.
 
-This design is what we created, inspired by the common issues that most of our interviewees dealt with wile growing their plants. 
-
-Wireframes:
+# Wireframes:
 
 |<img src="https://i.imgur.com/g0ZqcHG.png" width="200"> | <img src="https://i.imgur.com/Uxi4O7Z.png" width="200"> | <img src="https://i.imgur.com/J0M0zvN.png" width="200"> |
 | :---: | :---: | :---: |
