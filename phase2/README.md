@@ -1,6 +1,7 @@
 ## Phase II: User-Centered Design
 
 Executive Summary Goes Here?
+Accompany the wireframes with justifications for how they have been motivated by the user research data, personas, and scenarios.
 
 This design is what we created, inspired on the common issues that most of our interviewees dealt with wile growing their plants. 
 
