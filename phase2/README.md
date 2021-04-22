@@ -1,4 +1,4 @@
-## Phase 2: Interaction Design
+## Phase II: User-Centered Design
 
 Lorem Ipsum
 
