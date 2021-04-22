@@ -6,7 +6,7 @@ Lorem Ipsum
 | :---: | :---: | :---: |
 | Login | Create | Home Page |
 | Lorem Ipsum | Lorem Ipsum | Lorem Ipsum |
-| <img src="https://i.imgur.com/XU8AIl1.png" width="200"> |  <img src="https://i.imgur.com/g63YXB3.png" width="200"> |  <img src="https://i.imgur.com/XqeeJax.png" width="200"> |
+| <img src="https://i.imgur.com/XU8AIl1.png" width="200"> |  <img src="https://i.imgur.com/g63YXB3.png" width="200"> |  <img src="https://i.imgur.com/nFArmlgh.jpg" width="200"> |
 | Plant Scan | Plant Scan Confirmation | Plant Scan Results |
 | Lorem Ipsum | Lorem Ipsum | Lorem Ipsum |
 | <img src="https://i.imgur.com/JuvA6Rs.png" width="200"> | <img src="https://i.imgur.com/N4Zcwhx.png" width="200"> | <img src="https://i.imgur.com/576WYsk.png" width="200"> |
