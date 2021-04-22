@@ -17,5 +17,5 @@ This design is what we created, inspired on the common issues that most of our i
 | Here is where we can see all the scans we have done before, just in case we need reference to them down the road. | This is what will show if we select an option from the previous scans menu. | This is inspired due to our interviewees all dealt with similar issues, and we thought we could aggregate this data here. Here is where we show common illnesses that the plant owners deal with commonly, in hopes that this can help a user quickly solve the issue from guides from here. | 
 | <img src="https://i.imgur.com/TZThh3R.png" width="200"> | <img src="https://i.imgur.com/91lLxZy.png" width="200"> |
 | Common Illnesses Selection | Profile / Settings | 
-| Here is what we view if we select one of the options in the common illnesses menu. | Here is where the user can change their account information just in case if they need to provide more security and whatnot. | |
+| Here is what we view if we select one of the options in the common illnesses menu. | Here is where the user can change their account information just in case if they need to provide more security and whatnot. |
 
