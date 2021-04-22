@@ -35,7 +35,7 @@ Software with the ability to assess plant health & alert users of potential prob
 # Phase II: User-Centered Design
 
 * [Wireframes](phase2/Doctor_Verde.pdf)
-* [Prototype](https://xd.adobe.com/view/aa438efd-953f-4a51-a444-14a28db70a0c-ff10/)
+* [Prototype](https://xd.adobe.com/view/aa438efd-953f-4a51-a444-14a28db70a0c-ff10/) draft
 
 [Full phase 2 report](phase2/)
 
