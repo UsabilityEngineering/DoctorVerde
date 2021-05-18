@@ -4,8 +4,8 @@ Software with the ability to assess plant health & alert users of potential prob
 
 ## Team Members
 
-* [Alex Moxon]() - Prototyping, Cordination of Group Work & Repository Files, Taking Notes During Interviews
-* [David Ayala]() - Wireframing, Methods, Writing Executive Summaries, Interviewing
+* [Alex Moxon](https://usabilityengineering.github.io/ux-portfolio-alexmoxon/) - Prototyping, Cordination of Group Work & Repository Files, Taking Notes During Interviews
+* [David Ayala](https://usabilityengineering.github.io/ux-portfolio-e7ite/) - Wireframing, Methods, Writing Executive Summaries, Interviewing
 * [Dylan Davidson](https://usabilityengineering.github.io/ux-portfolio-myothra7777/) - Sketching, Creating Personas & Scenarios, Notes During Usability Test, Markdown
 
 # User-Centered Design Artifacts
