@@ -28,6 +28,11 @@ Software with the ability to assess plant health & alert users of potential prob
 # Phase II: User-Centered Design
 
 * __Executive Summary:__
+  * Analyzed data gathered from Phase I to influence app direction and design
+  * Created low-fidelity sketches of our ideal application
+  * Iteratively improved app design until the team approved
+  * Created wireframes and ensured smooth flow and simplicity of app
+  * Turned wireframes into higher fidelity interactive prototype
 
 * [Wireframes](phase2/Doctor_Verde.pdf)
 * [Prototype](https://xd.adobe.com/view/aa438efd-953f-4a51-a444-14a28db70a0c-ff10/) draft
