@@ -38,6 +38,10 @@ Software with the ability to assess plant health & alert users of potential prob
 
 # Phase III: Usability Evaluation
 
-*Coming Soon*
+* __Executive Summary:__
+  * Completed the final design of our interactive prototype
+  * Designed a protocol to follow during usability test
+  * Created a spreadsheet to organize usability test participant response data
+  * Overhauled and redesigned team project github repo
 
 [Full phase 3 report](phase3/)
