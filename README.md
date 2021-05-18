@@ -12,7 +12,7 @@ Software with the ability to assess plant health & alert users of potential prob
 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](phase2/Doctor_Verde.pdf)
-* [Prototype](https://xd.adobe.com/view/aa438efd-953f-4a51-a444-14a28db70a0c-ff10/) draft
+* [Prototype](https://xd.adobe.com/view/aa438efd-953f-4a51-a444-14a28db70a0c-ff10/)
 
 # Phase I: Requirements Gathering
 
@@ -31,11 +31,8 @@ Software with the ability to assess plant health & alert users of potential prob
   * Analyzed data gathered from Phase I to influence app direction and design
   * Created low-fidelity sketches of our ideal application
   * Iteratively improved app design until the team approved
-  * Created wireframes and ensured smooth flow and simplicity of app
-  * Turned wireframes into higher fidelity interactive prototype
-
-* [Wireframes](phase2/Doctor_Verde.pdf)
-* [Prototype](https://xd.adobe.com/view/aa438efd-953f-4a51-a444-14a28db70a0c-ff10/) draft
+  * Created [wireframe](phase2/Doctor_Verde.pdf) and ensured smooth flow and simplicity of app
+  * Turned wireframe into higher fidelity interactive [prototype](https://xd.adobe.com/view/aa438efd-953f-4a51-a444-14a28db70a0c-ff10/) draft
 
 [Full phase 2 report](phase2/)
 
