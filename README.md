@@ -11,7 +11,7 @@ An application with the ability to assess plant health & alert users of potentia
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](phase2/Doctor_Verde.pdf)
+* [Wireframe](phase2/Doctor_Verde.pdf)
 * [Prototype](https://xd.adobe.com/view/aa438efd-953f-4a51-a444-14a28db70a0c-ff10/)
 
 # Phase I: Requirements Gathering
