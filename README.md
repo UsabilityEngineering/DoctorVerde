@@ -16,7 +16,8 @@ Software with the ability to assess plant health & alert users of potential prob
 
 # Phase I: Requirements Gathering
 
-* __Executive Summary:__ Looked into finding common issues among plant growers, from farmers to home gardeners with the desire to use technology to automate detection of these issues to allow for quick remedies.
+* __Executive Summary:__ 
+  * Looked into finding common issues among plant growers, from farmers to home gardeners with the desire to use technology to automate detection of these issues to allow for    quick remedies.
   * Issues include plant illness, pests, etc.
   * Looking into all plants, from fruit trees to rose bushes.
   * Will create a technology that is **learnable**, **efficient**, and **effective**.
@@ -26,7 +27,7 @@ Software with the ability to assess plant health & alert users of potential prob
 
 # Phase II: User-Centered Design
 
-## Executive Summary: 
+* __Executive Summary:__
 This design is what we decided is best for our users, inspired by the common issues that most of our interviewees dealt with while growing their plants. We started with a sketch of the design. Most of our interviewees wanted something that would work camera-based, as they are used to taking pictures for their families. They would be most comfortable with using a mobile application that feels familiar. Through iterative design, we improved on the sketch. We made sure that our design is error-tolerant, which is quite important for our audience. After this, we created a wireframe that contained all the menu options and basic design. We thought of how the interactions would go, and we settled with a prototype that was easily learnable.
 
 * [Wireframes](phase2/Doctor_Verde.pdf)
