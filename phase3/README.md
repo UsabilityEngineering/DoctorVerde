@@ -14,3 +14,6 @@ The purpose of the background questions is to determine if the user has used web
 ### Task 2
 
 ### Wrap-up
+
+### Overall Approach
+We used the think-aloud approach, since we know hearing the user's thought process is the simplest way to find out what they are thinking. We do not risk getting any false presumptions about what they are thinking this way. This will help us avoid changing our design to something the users dont want. It is also cheap to do, convincing, and easy to conduct.
