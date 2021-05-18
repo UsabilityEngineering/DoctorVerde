@@ -7,7 +7,10 @@
 ## Protocol Overview
 
 ### Background
+The purpose of the background questions is to determine if the user has used websites or utilities/applications to seek information or advice about plants in the past. 
 
 ### Task 1
 
 ### Task 2
+
+### Wrap-up
