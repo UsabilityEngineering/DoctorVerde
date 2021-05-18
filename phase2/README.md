@@ -1,5 +1,7 @@
 # Phase II: User-Centered Design
 
+This design is what we decided is best for our users, inspired by the common issues that most of our interviewees dealt with while growing their plants. We started with a sketch of the design. Most of our interviewees wanted something that would work camera-based, as they are used to taking pictures for their families. They would be most comfortable with using a mobile application that feels familiar. Through iterative design, we improved on the sketch. We made sure that our design is error-tolerant, which is quite important for our audience. After this, we created a wireframe that contained all the menu options and basic design. We thought of how the interactions would go, and we settled with a prototype that was easily learnable.
+
 ## Wireframes:
 
 |<img src="https://i.imgur.com/g0ZqcHG.png" width="200"> | <img src="https://i.imgur.com/Uxi4O7Z.png" width="200"> | <img src="https://i.imgur.com/J0M0zvN.png" width="200"> |
