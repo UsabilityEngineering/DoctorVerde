@@ -19,9 +19,9 @@ Software with the ability to assess plant health & alert users of potential prob
 * __Executive Summary:__ 
   * Looked into finding common issues among plant growers, from farmers to home gardeners who are willng to recieve aid from an app
   * Issues include plant illness, pests, etc.
-  * Looking into all plants, from fruit trees to rose bushes.
-  * Will create a technology that is **learnable**, **efficient**, and **effective**.
-  * Interviewed plant owners for information  
+  * Looking into all plants, from saplings to fruit trees.
+  * Striving to create a technology that is **learnable**, **efficient**, and **effective**.
+  * Interviewed plant owners for information and suggestions
   
 [Full phase 1 report](phase1/)
 
